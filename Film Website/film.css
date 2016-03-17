@@ -4,6 +4,14 @@ header {
 	background-color: #783127;
 }
 
+.title {
+	padding-top: 0px;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	font-family: 'Sigmar One';
+}
+
 article {
 	width: 1000px;
 	height: 1000px;
@@ -59,14 +67,6 @@ footer h3 {
 
 .poster {
 	padding-top: 75px;
-}
-
-.title {
-	padding-top: 0px;
-	font-size: 40px;
-	text-align: center;
-	color: white;
-	font-family: 'Sigmar One';
 }
 
 .paragraph {
